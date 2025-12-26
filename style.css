@@ -13,6 +13,12 @@ header {
   text-align: center;
 }
 
+.header-sub {
+  font-size: 0.5em;
+  font-weight: normal;
+  opacity: 0.7;
+}
+
 .subtitle {
   opacity: 0.8;
 }
@@ -52,4 +58,26 @@ footer {
   padding: 20px;
   font-size: 0.9em;
   color: #666;
+}
+
+.link-title {
+  font-size: 1.05em;
+  font-weight: bold;
+}
+
+.work-item {
+  margin-bottom: 20px;
+}
+
+.work-title {
+  font-size: 1.1em;
+  font-weight: bold;
+  display: inline-block;
+  margin-bottom: 4px;
+}
+
+.work-desc {
+  margin: 0;
+  color: #555;
+  font-size: 0.95em;
 }
